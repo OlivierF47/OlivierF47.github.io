@@ -1,1 +1,2 @@
-# OlivierF47.github.io
+Projet Tribute Page de FreeCodeCamp
+Réalisé autour du thème d'Hadès.
