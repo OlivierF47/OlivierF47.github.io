@@ -4,8 +4,8 @@
     }
 
 body {
-    background-color: hsl(35, 53%, 54%);
-    color: #3a1c1c;
+    background-color:  #fff8e1;
+    color: #3a1c1c solid ;
     text-align: center;
     padding: 20px;
     font-family:"Nunito Sans", sans-serif;
@@ -22,7 +22,7 @@ body {
 main {
     max-width: 800px;
     margin: 40px auto;
-    background: #fff8e1;
+    background: url(https://img.freepik.com/photos-gratuite/fond-papier-grunge_1048-10791.jpg?semt=ais_hybrid);
     padding: 60px;
     border-radius: 10px;
     box-shadow: 0px 20px 10px rgba(0, 0, 0, 0.2);
@@ -81,6 +81,12 @@ li{
     margin-top:40px;
     
 }
+
+#tribute-link:hover {
+  transition: background 1s;
+    background: #b22222;
+}
+
 
 #tribute-link:hover {
   transition: background 1s;
